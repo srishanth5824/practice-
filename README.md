@@ -1,2 +1,2 @@
-# practice-
-its my first python project
+# python practice-
+my python projects
